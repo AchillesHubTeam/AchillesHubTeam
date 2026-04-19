@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/---NORMAL%20DEVELOPERS---00b4d8?style=for-the-badge&labelColor=08203B" width="100%" height="75px" />
+  <img src="https://img.shields.io/badge/---NORMAL%20DEVELOPERS---00b4d8?style=for-the-badge&labelColor=08203B" width="100%" height="85px" />
 
   <br />
 
@@ -18,11 +18,12 @@
 </div>
 
 ---
+---
 
 ### My Language Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true" height="185px" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true&v=999)" height="185px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true&cache_seconds=1800" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true&cache_seconds=1800" height="190px" />
 </div>
 
 ### My Commit Stats
@@ -30,6 +31,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchillesHubTeam&theme=transparent&fire=00b4d8&ring=00b4d8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <i>"Turning caffeine into complex systems and 0 errors (trust me, bro)."</i>
-</p>
+---
+
+<div align="center">
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AchillesHubTeam&theme=transparent" width="100%" />
+  <br />
+  <p><i>"Turning caffeine into complex systems and 0 errors (trust me, bro)."</i></p>
+</div>
