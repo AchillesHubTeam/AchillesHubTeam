@@ -1,21 +1,15 @@
 <div align="center">
-  <svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="1200" height="200" rx="20" fill="#08203B"/>
-    <defs>
-      <linearGradient id="paint0_linear" x1="0" y1="0" x2="1200" y2="200" gradientUnits="userSpaceOnParent">
-        <stop stop-color="#00b4d8"/>
-        <stop offset="1" stop-color="#0077b6"/>
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="200" rx="20" fill="url(#paint0_linear)" fill-opacity="0.1"/>
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#00b4d8" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="70" font-weight="bold">NORMAL DEVELOPERS</text>
-    <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" fill-opacity="0.6" font-family="Segoe UI, Roboto, sans-serif" font-size="20">Advanced System Engineering & Security Suite</text>
+  <svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="10" y="10" width="1180" height="200" rx="15" fill="#000000" fill-opacity="0.3"/>
+    <rect x="5" y="5" width="1185" height="195" rx="15" fill="#08203B" stroke="#00b4d8" stroke-width="4"/>
+    <path d="M5 20C5 11.7157 11.7157 5 20 5H1180V25L20 25C11.7157 25 5 18.2843 5 10V20Z" fill="white" fill-opacity="0.05"/>
+    
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#00b4d8" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="85" font-weight="900" style="text-transform: uppercase; letter-spacing: 5px;">NORMAL DEVELOPERS</text>
   </svg>
 
   <br />
-  <br />
 
-  <img src="https://img.shields.io/badge/---NORMAL%20DEVELOPERS---00b4d8?style=for-the-badge&labelColor=08203B" width="100%" height="60px" />
+  <img src="https://img.shields.io/static/v1?label=&message=NORMAL%20DEVELOPERS&color=00b4d8&style=for-the-badge&labelColor=08203B" width="100%" height="80px" />
 
   <br />
 
