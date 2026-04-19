@@ -19,13 +19,13 @@
 
 ---
 
-### Core Diagnostics
+### My Language Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true" height="185px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" height="185px" />
 </div>
 
-### Commit Velocity
+### My Commit Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchillesHubTeam&theme=transparent&fire=00b4d8&ring=00b4d8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
 </p>
