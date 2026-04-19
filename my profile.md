@@ -1,26 +1,11 @@
 <div align="center">
-
-  <table width="100%">
-    <tr>
-      <td align="center" style="background-color: #08203B; border: 4px solid #00b4d8; border-radius: 15px; padding: 40px;">
-        <h1 style="color: #00b4d8; font-family: 'Segoe UI', sans-serif; font-size: 60px; margin: 0; letter-spacing: 10px; text-transform: uppercase;">
-          NORMAL DEVELOPERS
-        </h1>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://img.shields.io/badge/---NORMAL%20DEVELOPERS---00b4d8?style=for-the-badge&labelColor=08203B" width="100%" height="70px" />
+  <img src="https://img.shields.io/badge/---NORMAL%20DEVELOPERS---00b4d8?style=for-the-badge&labelColor=08203B" width="100%" height="75px" />
 
   <br />
 
   <p align="center">
-    <font size="5"><b>just a normal developer</b></font>
+    <b>just a normal developer</b>
   </p>
-
-  <br />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -34,22 +19,17 @@
 
 ---
 
-### CORE DIAGNOSTICS
+### Core Diagnostics
 <div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true" height="185px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" height="185px" />
 </div>
 
-<br />
-
-### COMMIT VELOCITY
+### Commit Velocity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchillesHubTeam&theme=transparent&fire=00b4d8&ring=00b4d8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
 </p>
 
-<div align="center">
-  <br />
-  <p><i>"Turning caffeine into complex systems and 0 errors (trust me, bro)."</i></p>
-  <br />
-</div>
+<p align="center">
+  <i>"Turning caffeine into complex systems and 0 errors (trust me, bro)."</i>
+</p>
