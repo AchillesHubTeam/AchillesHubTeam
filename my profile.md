@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://socialify.git.ci/AchillesHubTeam/Iron-brew-source/image?description=Advanced%20System%20Obfuscation%20%26%20Mobile%20Watchdog&font=Inter&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="100%" alt="AchillesHub Systems Banner" />
+  <img src="https://v-badges.vercel.app/api?title=ACHILLESHUB%20SYSTEMS&subTitle=Advanced%20Obfuscation%20%26%20Watchdog&theme=dark&color=00b4d8&width=1200&height=250" width="100%" alt="AchillesHub Systems" />
 
   <br />
   <br />
 
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=200&section=header&text=ACHILLESHUB%20SYSTEMS&fontSize=60&animation=fadeIn&v=3" width="100%" alt="System Header" />
+  <img src="https://img.shields.io/badge/---ACHILLESHUB%20SYSTEMS---00b4d8?style=for-the-badge&labelColor=08203B" width="100%" height="50px" />
 
   <br />
 
@@ -29,8 +29,8 @@
 ### CORE DIAGNOSTICS
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true&cache_seconds=600" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true&cache_seconds=600" height="190px" />
 </div>
 
 <br />
