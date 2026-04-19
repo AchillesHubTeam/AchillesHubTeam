@@ -1,15 +1,9 @@
 <div align="center">
-  <svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect x="10" y="10" width="1180" height="200" rx="15" fill="#000000" fill-opacity="0.3"/>
-    <rect x="5" y="5" width="1185" height="195" rx="15" fill="#08203B" stroke="#00b4d8" stroke-width="4"/>
-    <path d="M5 20C5 11.7157 11.7157 5 20 5H1180V25L20 25C11.7157 25 5 18.2843 5 10V20Z" fill="white" fill-opacity="0.05"/>
-    
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#00b4d8" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="85" font-weight="900" style="text-transform: uppercase; letter-spacing: 5px;">NORMAL DEVELOPERS</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=08203B&height=200&section=header&text=NORMAL%20DEVELOPERS&fontSize=70&fontColor=00b4d8&animation=fadeIn" width="100%" alt="Normal Developers Sign" />
 
   <br />
 
-  <img src="https://img.shields.io/static/v1?label=&message=NORMAL%20DEVELOPERS&color=00b4d8&style=for-the-badge&labelColor=08203B" width="100%" height="80px" />
+  <img src="https://img.shields.io/badge/---NORMAL%20DEVELOPERS---00b4d8?style=for-the-badge&labelColor=08203B" width="100%" style="height: 60px !important;" />
 
   <br />
 
