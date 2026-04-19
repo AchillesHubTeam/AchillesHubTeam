@@ -1,9 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=200&section=header&text=ACHILLESHUB%20SYSTEMS&fontSize=60&animation=fadeIn&v=1" width="100%" />
+  <img src="https://socialify.git.ci/AchillesHubTeam/Iron-brew-source/image?description=Advanced%20System%20Obfuscation%20%26%20Mobile%20Watchdog&font=Inter&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="100%" alt="AchillesHub Systems Banner" />
+
+  <br />
+  <br />
+
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=200&section=header&text=ACHILLESHUB%20SYSTEMS&fontSize=60&animation=fadeIn&v=3" width="100%" alt="System Header" />
+
+  <br />
 
   <p align="center">
-    <b>just a normal developer</b>
+    <font size="5"><b>Just a normal developer</b></font>
   </p>
+
+  <br />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -19,16 +28,22 @@
 
 ### CORE DIAGNOSTICS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true" height="175px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" height="175px" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" height="190px" />
 </div>
+
+<br />
 
 ### COMMIT VELOCITY
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchillesHubTeam&theme=transparent&fire=00b4d8&ring=00b4d8&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
 </p>
 
+<br />
+
 <div align="center">
   <br />
   <p><i>"Turning caffeine into complex systems and 0 errors (trust me, bro)."</i></p>
+  <br />
 </div>
