@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyMDAiIHZpZXdCb3g9IjAgMCAxMjAwIDIwMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyMDAiIHJ4PSIxNSIgZmlsbD0iIzA4MjAzQiIgc3Ryb2tlPSIjMDBiNGQ4IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8dGV4dCB4PSI1MCUiIHk9IjU1JSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzAwYjRkOCIgZm9udC1mYW1pbHk9IidTZWdvZSBVSScsIFJvYm90bywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI3NSIgZm9udC13ZWlnaHQ9IjkwMCIgc3R5bGU9InRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7IGxldHRlci1zcGFjaW5nOiA4cHg7Ij5OT1JNQUwgREVWRUxPUEVSUzwvdGV4dD4KPC9zdmc+" width="100%" alt="Normal Developers Banner" />
+
+  <table width="100%">
+    <tr>
+      <td align="center" style="background-color: #08203B; border: 4px solid #00b4d8; border-radius: 15px; padding: 40px;">
+        <h1 style="color: #00b4d8; font-family: 'Segoe UI', sans-serif; font-size: 60px; margin: 0; letter-spacing: 10px; text-transform: uppercase;">
+          NORMAL DEVELOPERS
+        </h1>
+      </td>
+    </tr>
+  </table>
 
   <br />
-  <br />
 
-  <img src="https://img.shields.io/badge/%E2%96%BA---NORMAL%20DEVELOPERS---%E2%97%84-00b4d8?style=for-the-badge&labelColor=08203B" width="100%" height="65px" />
+  <img src="https://img.shields.io/badge/---NORMAL%20DEVELOPERS---00b4d8?style=for-the-badge&labelColor=08203B" width="100%" height="70px" />
 
   <br />
 
@@ -29,8 +37,8 @@
 ### CORE DIAGNOSTICS
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true&cache_seconds=3600" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true&cache_seconds=3600" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AchillesHubTeam&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&count_private=true&hide_border=true" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchillesHubTeam&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" height="195px" />
 </div>
 
 <br />
