@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=200&section=header&text=ACHILLESHUB%20SYSTEMS&fontSize=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=200&section=header&text=ACHILLESHUB%20SYSTEMS&fontSize=60&animation=fadeIn&v=1" width="100%" />
 
   <p align="center">
     <b>just a normal developer</b>
@@ -30,5 +30,5 @@
 
 <div align="center">
   <br />
-  <p><i>"Systematic approach to complex problem solving."</i></p>
+  <p><i>"Turning caffeine into complex systems and 0 errors (trust me, bro)."</i></p>
 </div>
