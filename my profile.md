@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=200&section=header&text=ACHILLESHUB%20SYSTEMS&fontSize=60&animation=fadeIn" width="100%" />
 
   <p align="center">
-    <b>SOFTWARE ARCHITECT | BACKEND DEVELOPER | SECURITY RESEARCHER</b>
+    <b>just a normal developer</b>
   </p>
 
   <p align="center">
